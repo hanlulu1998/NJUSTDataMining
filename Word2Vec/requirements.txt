@@ -1,0 +1,5 @@
+numpy==1.19.2
+bert_serving_server==1.10.0
+pandas==1.1.5
+bert_serving==0.0.1
+tensorflow==1.12.0
